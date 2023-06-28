@@ -52,4 +52,4 @@ After the analysis process the results showed us that the team with the largest 
 
 Based on the data driven from the analysis and the visualizations, the most appropriate team to work with during the 2023 season is **Red Bull Racing**. It is the team that dominated the 2022 seaons both on Constructors and Drivers Championships.
 
-*Data taken from toUpperCase78 formula1-dataset´s repository on GitHub*
+*Data taken from toUpperCase78 formula1-dataset repository on GitHub*
