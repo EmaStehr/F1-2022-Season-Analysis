@@ -1,8 +1,14 @@
 <h1>F1 2022 Season Case Study for Turbine Timepieces</h1>
 
 <h2>Description</h2>
-The Project consists of an analysis for the 2022 Formula 1 season. The Objective consisted of finding the most appropriate F1 team for Turbine Timepieces to work with.
+The Project consists of an analysis for the 2022 Formula 1 season. The Objective consist of informing Turbine Timepieces based of data-driven decision making the appropriate team the partner with.
 <br />
+
+<h2>Tools Used</h2>
+
+- Excel for cleaning and analyzing data.
+- SQL for data manipulation.
+- Tableau for visualizations. 
 
 <h2>Outline of the Project</h2>
 
@@ -38,6 +44,10 @@ After the analysis process the results showed us that the team with the largest 
 
 <h3>Phase 5: Share</h3>
 
+![Constructors Championship](https://github.com/EmaStehr/F1-2022-Season-Analysis/blob/main/Constructors-stats.png)
 
+![Constructors Championship](https://github.com/EmaStehr/F1-2022-Season-Analysis/blob/main/Drivers-stats.png)
 
 <h3>Phase 6: Act</h3>
+
+Based on the data driven from the analysis and the visualizations, the most appropriate team to work with during the 2023 season is **Red Bull Racing**. It is the team that dominated the 2022 seaons both on Constructors and Drivers Championships.
