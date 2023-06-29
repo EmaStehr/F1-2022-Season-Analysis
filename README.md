@@ -1,7 +1,7 @@
 <h1>F1 2022 Season Case Study for Turbine Timepieces</h1>
 
 <h2>Description</h2>
-The Project consists of an analysis for the 2022 Formula 1 season. The Objective consist of informing Turbine Timepieces based of data-driven decision making the appropriate team the partner with.
+The Project consists of an analysis of the 2022 Formula 1 season. The Objective consist of informing Turbine Timepieces about the appropriate team the partner with.
 <br />
 
 <h2>Tools Used</h2>
@@ -16,7 +16,7 @@ The analysis process was divided into six phases: Ask, Prepare, Process, Analyze
 
 <h3>Phase 1: Ask</h3>
 
-The 2022 season of the Formula 1 World Championship was one of the most exiting seasons of the last decade. With a lot of knew changes and upgrades made to the rules each team had to create a new machine to contest for the championship. 
+The 2022 season of the Formula 1 World Championship was one of the most exciting seasons of the last decade. With a lot of new changes and upgrades made to the rules each team had to create a new machine to contest for the championship. 
 
 This changes brought a lot a new fans to the sport and renewed the interest of the public for racing. It catched the eyes of Miguelangelo Marchiutti, the CEO of a company called Turbine Timepieces, and this lit a fire inside of him: ***to put his brand into a Formula 1 Race Car.***
 
@@ -24,7 +24,7 @@ This changes brought a lot a new fans to the sport and renewed the interest of t
 
 <h3>Phase 2: Prepare</h3>
 
-The data used for the analysis was obtained from the Formula 1 Official Website. The data states within a spreadsheet each Track, Driver, Team, the Result of the race for each Driver and the amount of points scored for the team. 
+The data used for the analysis was obtained from the Formula 1 Official Website. The data states in a spreadsheet each Track, Driver, Team, the Result of the race for each Driver and the amount of points scored for the team. 
 
 <h3>Phase 3: Process</h3>
 
